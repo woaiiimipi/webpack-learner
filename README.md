@@ -19,3 +19,10 @@ module.exports = {
 ```
 ## custom webpack file name
 - add script *"build": "webpack --config webpack.config.dev.js"*
+
+## add dev server
+```
+npm i webpack-dev-server
+```
+-     npx webpack-dev-server // will pack a virtual build in rom and start a server
+- config devServer

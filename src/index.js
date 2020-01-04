@@ -1,2 +1,2 @@
 let s = require('./a.js');
-console.log(s);
+console.log(s, s);
